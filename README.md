@@ -1,4 +1,4 @@
 # Node-Web-Scraper-Example
-A simple script to run using node.js in the terminal to demo real-time web scraping.  Returns my crossfit schedule for the week.
+A simple scraping tool to run using node.js in the terminal to demo real-time web scraping.  Returns my crossfit schedule for the week.
 
-Node.js package (npm) dependencies: 'cheerio', 'request'.
+NPM dependencies: 'cheerio', 'request'.
